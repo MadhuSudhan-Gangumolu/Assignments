@@ -4,7 +4,6 @@ C:\Users\Madhu Gangumolu\source\repos\Assignments\bin\Debug\netcoreapp3.1\Assign
 C:\Users\Madhu Gangumolu\source\repos\Assignments\bin\Debug\netcoreapp3.1\Assignments.runtimeconfig.dev.json
 C:\Users\Madhu Gangumolu\source\repos\Assignments\bin\Debug\netcoreapp3.1\Assignments.dll
 C:\Users\Madhu Gangumolu\source\repos\Assignments\bin\Debug\netcoreapp3.1\Assignments.pdb
-C:\Users\Madhu Gangumolu\source\repos\Assignments\obj\Debug\netcoreapp3.1\Assignments.csprojAssemblyReference.cache
 C:\Users\Madhu Gangumolu\source\repos\Assignments\obj\Debug\netcoreapp3.1\Assignments.AssemblyInfoInputs.cache
 C:\Users\Madhu Gangumolu\source\repos\Assignments\obj\Debug\netcoreapp3.1\Assignments.AssemblyInfo.cs
 C:\Users\Madhu Gangumolu\source\repos\Assignments\obj\Debug\netcoreapp3.1\Assignments.csproj.CoreCompileInputs.cache

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Assignments.Pattern4</StartupObject>
+    <StartupObject>Assignments.AlphabetPatterns</StartupObject>
   </PropertyGroup>
 
 </Project>
