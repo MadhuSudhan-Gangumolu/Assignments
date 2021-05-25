@@ -54,6 +54,7 @@ namespace Assignments
                     {
                         Console.Write("*");
                     }
+
                     else
                     {
                         Console.Write(" ");
@@ -498,7 +499,7 @@ namespace Assignments
             {
                 for (int j = 0; j < n; j++)
                 {
-                    if ((j == i || j == n - 1 - i) && i < (int)((n) / 2 ))
+                    if ((j == i || j == n  - 1 - i) && i < (int)((n) / 2 ))
                     {
                         Console.Write("*");
                     }
@@ -604,17 +605,17 @@ namespace Assignments
         }
         public static void callAlphabets(int n, string name)
         {
+            name = name.ToUpper();
             
-            char choice = '.';
             foreach (char ch in name)
             {   
-                choice = Convert.ToChar( Convert.ToString(ch).ToUpper());
-                if (choice == ' ')
+                
+                if (ch == ' ')
                 {
                     Console.WriteLine("\n\n");
                     continue;
                 }
-                switch(choice)
+                switch(ch)
                 {
                     case 'A':
                         A(n);

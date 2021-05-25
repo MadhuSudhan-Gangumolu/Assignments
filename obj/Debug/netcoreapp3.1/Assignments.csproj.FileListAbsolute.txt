@@ -10,3 +10,4 @@ C:\Users\Madhu Gangumolu\source\repos\Assignments\obj\Debug\netcoreapp3.1\Assign
 C:\Users\Madhu Gangumolu\source\repos\Assignments\obj\Debug\netcoreapp3.1\Assignments.dll
 C:\Users\Madhu Gangumolu\source\repos\Assignments\obj\Debug\netcoreapp3.1\Assignments.pdb
 C:\Users\Madhu Gangumolu\source\repos\Assignments\obj\Debug\netcoreapp3.1\Assignments.genruntimeconfig.cache
+C:\Users\Madhu Gangumolu\source\repos\Assignments\obj\Debug\netcoreapp3.1\Assignments.csprojAssemblyReference.cache
